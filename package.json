@@ -1,0 +1,19 @@
+{
+  "name": "parse_xml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavlikhin Sergey",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "tape": "^4.6.2",
+    "xml2js": "^0.4.17"
+  },
+  "engines": {
+    "node": "4.5.0"
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<WORKS>
+    <WORK>
+        <NAME>MathJax</NAME>
+        <SRC>https://github.com/sergeypavlikhin/mathJax</SRC>
+        <DIST>https://sergeypavlikhin.github.io/mathJax</DIST>
+    </WORK>
+    <WORK>
+        <NAME>Validate Brackets</NAME>
+        <SRC>https://github.com/sergeypavlikhin/validateBrackets</SRC>
+        <DIST>https://sergeypavlikhin.github.io/validateBrackets</DIST>
+    </WORK>
+    <WORK>
+        <NAME>Display JSON (using flexbox)</NAME>
+        <SRC>https://github.com/sergeypavlikhin/portfolio</SRC>
+        <DIST>https://sergeypavlikhin.github.io/portfolio</DIST>
+    </WORK>
+</WORKS>
